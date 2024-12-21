@@ -1,0 +1,10 @@
+FROM baseImage
+
+WORKDIR /the/workdir/path/
+
+COPY fileSource dest
+
+# after download image
+RUN 
+# when create container
+CMD []
